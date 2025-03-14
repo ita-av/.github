@@ -27,4 +27,5 @@
 ### Obvestila (Message Broker)
 - Pošiljanje opomnikov in obvestil
 
-
+## Shema
+![ita_shema](https://github.com/user-attachments/assets/b0d9ce78-0a20-4dd3-90b4-7100284e92fc)
