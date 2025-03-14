@@ -13,3 +13,18 @@
 
 ### Brivci
 - Pregled prihajajočih rezervacij
+
+## Storitve
+### Uporabniki (REST API)
+- Upravljanje uporabniških računov in avtentikacije
+- Shranjevanje podatkov v lastni podatkovni bazi
+
+### Rezervacije (gRPC)
+- Upravljanje rezervacij (ustvarjanje, urejanje, brisanje)
+- Shranjevanje podatkov v lastni podatkovni bazi
+
+
+### Obvestila (Message Broker)
+- Pošiljanje opomnikov in obvestil
+
+
