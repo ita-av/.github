@@ -1,6 +1,4 @@
-# IT Arhitekture: Mikrostoritveni sistem
-
-# Sistem za rezervacijo terminov v brivnici
+# IT Arhitekture: Sistem za rezervacijo terminov v brivnici
 
 ## Funckionalnosti
 - Upravljanje uporabniških računov (stranke in brivci)
