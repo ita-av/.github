@@ -1,6 +1,6 @@
 # IT Arhitekture: Mikrostoritveni sistem
 
-## Sistem za rezervacijo terminov v brivnici
+# Sistem za rezervacijo terminov v brivnici
 
 ## Funckionalnosti
 - Upravljanje uporabniških računov (stranke in brivci)
@@ -10,7 +10,7 @@
 ## Uporabniki 
 ### Stranke (končni uporabniki)
 - Registracija in prijava v uporabniški račun
-- Rezerviranje obiska
+- Rezervacija obiska
 - Prejemanje opomnikov pred terminom
 
 ### Brivci
