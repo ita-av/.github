@@ -15,11 +15,11 @@
 - Pregled prihajajočih rezervacij
 
 ## Storitve
-### Uporabniki (REST API)
+### [Uporabniki (REST API)](https://github.com/ita-av/user-service)
 - Upravljanje uporabniških računov in avtentikacije
 - Shranjevanje podatkov v lastni podatkovni bazi
 
-### Rezervacije (gRPC)
+### [Rezervacije (gRPC)](https://github.com/ita-av/booking-service)
 - Upravljanje rezervacij (ustvarjanje, urejanje, brisanje)
 - Shranjevanje podatkov v lastni podatkovni bazi
 
